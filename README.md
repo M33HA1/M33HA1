@@ -1,16 +1,16 @@
 ### Hey 👋, I'm Meehal
 
-<a href="https://www.linkedin.com/in/yash-mathur-3a2aa21b7/">
-  <img align="left" alt="Meehal's LinkdeIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
+<a href="https://www.linkedin.com/in/meehal-malik/">
+  <img align="left" alt="Meehal's LinkedIn" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://leetcode.com/u/Meehal/">
   <img align="left" alt="Meehal's Leetcode" width="22px" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" />
 </a>
 <a href="https://open.spotify.com/user/31uvgzfefj6u5kyuznigylscw56q">
-  <img align="left" alt="Meehal's Spotify" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Spotify.svg" />
+  <img align="left" alt="Meehal's Spotify" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Spotify.svg" />
 </a>
 <a href="https://x.com/Meehal_Malik">
-  <img align="left" alt="Meehal's Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
+  <img align="left" alt="Meehal's Twitter" width="22px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" />
 </a>
 
 <br />
@@ -59,10 +59,11 @@ I'm **Meehal Malik (He/Him)** — a **Full-Stack Developer** and **Cybersecurity
 
 ### 🌟 Featured Projects
 
-**🔹 [ForgeHarbor](#)** – *Enterprise Threat Detection Platform*  
+**🔹 ForgeHarbor** – *Enterprise Threat Detection Platform*  
 `Rust, Go, TypeScript, Python, React, Docker, RabbitMQ, MongoDB`  
 > Architected 6-service microservice platform for real-time phishing & malware analysis with 99.9% uptime.  
-> Built **Rust authentication service** using Argon2 + RSA-256 JWTs and AI phishing detection using Gemini API.
+> Built **Rust authentication service** using Argon2 + RSA-256 JWTs and AI phishing detection using Gemini API.  
+> *Repository link coming soon*
 
 **🔹 Network Vulnerability Scanner**  
 `Python, Kali Linux, Nmap API`  
@@ -112,4 +113,4 @@ I'm **Meehal Malik (He/Him)** — a **Full-Stack Developer** and **Cybersecurity
 
 ### 📫 How to Reach Me
 - 📧 Email: [Meehal.Malik@gmail.com](mailto:Meehal.Malik@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/meehal-malik](https://www.linkedin.com/in/meehal-malik)
+- 💼 LinkedIn: [linkedin.com/in/meehal-malik](https://www.linkedin.com/in/meehal-malik/)
